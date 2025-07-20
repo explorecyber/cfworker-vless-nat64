@@ -1,5 +1,5 @@
 // VLESS UUID
-let userID = '12345678-1234-1234-1234-123456789012';
+let userID = '2fbca0fe-86e6-4dd4-b6e0-0227bb60b8d5';
 
 // Public NAT64 Prefix
 let nat64Prefix = '2602:fc59:11:64::';
